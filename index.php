@@ -2,7 +2,6 @@
 
 <section
     class="flex flex-col md:flex-row items-center justify-center min-h-screen px-8 bg-gray-100 dark:bg-gray-800 transition-colors">
-    <!-- Bloc Texte centré verticalement -->
     <div class="max-w-xl text-center md:text-left flex flex-col justify-center md:mr-16">
         <p class="uppercase text-sm text-gray-500 mb-2">Développeur Web & Mobile Fullstack</p>
         <h1 class="text-4xl md:text-5xl font-bold mb-6">
@@ -23,8 +22,6 @@
             </a>
         </div>
     </div>
-
-    <!-- Image à droite -->
     <div class="flex justify-center">
         <img src="assets/img/logo.png" alt="Romain Deschaseaux" class="w-72 md:w-96 object-contain rounded-full">
     </div>
@@ -32,7 +29,6 @@
 
 
 
-<!-- Présentation rapide -->
 <section class="max-w-5xl mx-auto px-4 py-16 text-center">
     <h2 class="text-3xl font-bold mb-6">Qui suis-je ?</h2>
     <p class="text-gray-700 dark:text-gray-300 mb-4">
@@ -44,8 +40,6 @@
         évolutives.
     </p>
 </section>
-
-<!-- Pourquoi me choisir -->
 <section class="bg-purple-50 dark:bg-gray-900 py-16">
     <div class="max-w-6xl mx-auto px-4 text-center">
         <h2 class="text-3xl font-bold mb-10">Pourquoi me faire confiance ?</h2>
@@ -66,8 +60,6 @@
         </div>
     </div>
 </section>
-
-<!-- Aperçu Projets -->
 <section class="max-w-6xl mx-auto px-4 py-16 text-center">
     <h2 class="text-3xl font-bold mb-10">Mes dernières réalisations</h2>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -90,8 +82,6 @@
         Voir tous les projets
     </a>
 </section>
-
-<!-- Call to Action final -->
 <section class="bg-purple-500 py-12 text-center text-white">
     <h2 class="text-3xl font-bold mb-4">Prêt à donner vie à votre projet ?</h2>
     <a href="contact.php" class="bg-white text-purple-500 px-6 py-3 rounded font-semibold hover:bg-gray-100 transition">
